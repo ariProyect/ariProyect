@@ -1,5 +1,9 @@
 ### Hi I'am Arianny 👋
 
+<p align="center">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+</p>
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -11,6 +15,10 @@ const ariProyect = {
   
 }
 ```
+**🌱 Looking forward to learn:** <br>
+<br>
+<code><a href="https://www.drupal.org/" target="_blank"><img height="50" src="https://www.drupal.org/files/cta/graphic/Wordmark2_white_RGB.svg"></a></code>
+
 
 <p align="center">
   <i>Reach out to me on.</i>
