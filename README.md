@@ -19,6 +19,8 @@ const ariProyect = {
     <a href="https://twitter.com/@arianny9951" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
     <a href="https://www.linkedin.com/in/arianny-osoria-rivero-a69112ba/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
   </p>
+  
+  ⭐️ From [ariProyect](https://github.com/ariProyect)
 
 <!--
 
