@@ -12,8 +12,13 @@ const ariProyect = {
 }
 ```
 
- Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/arianny-osoria-rivero-a69112ba/)](https://www.linkedin.com/in/arianny-osoria-rivero-a69112ba/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guardandoPrimero2@gmail.com)](mailto:guardandoPrimero2@gmail.com)
+<p align="center">
+  <i>Reach out to me on.</i>
+
+  <p align="center">
+    <a href="https://twitter.com/@arianny9951" alt="Twitter"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/twitter.png" height="30" width="30"></a>     
+    <a href="https://www.linkedin.com/in/arianny-osoria-rivero-a69112ba/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="30" width="30"></a>
+  </p>
 
 <!--
 
