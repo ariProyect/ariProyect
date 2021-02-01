@@ -12,6 +12,13 @@ const ariProyect = {
 }
 ```
 
+ Reach out to me on :point_right: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-4169E1?style=flat-square&logo=Linkedin&logoColor=white&&link=https://www.linkedin.com/in/arianny-osoria-rivero-a69112ba/)](https://www.linkedin.com/in/arianny-osoria-rivero-a69112ba/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:guardandoPrimero2@gmail.com)](mailto:guardandoPrimero2@gmail.com)
+
+<!--
+
+## Hola 👋, 
+
 <!--
 **ariProyect/ariProyect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
