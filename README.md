@@ -17,7 +17,7 @@ const ariProyect = {
 ```
 **🌱 Looking forward to learn:** <br>
 <br>
-<code><a href="https://www.drupal.org/" target="_blank"><img height="50" src="https://www.drupal.org/files/cta/graphic/Wordmark2_white_RGB.svg"></a></code>
+<code><a href="https://www.drupal.org/" target="_blank"><img height="50" src="https://www.mejorcms.com/wp-content/uploads/2020/06/drupal-9-logo.jpg"></a></code>
 
 
 <p align="center">
