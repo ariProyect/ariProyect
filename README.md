@@ -10,7 +10,7 @@
 ```javascript
 const ariProyect = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, PHP, Java],
+  code: [Javascript, Typescript, HTML, CSS3, PHP, Java],
   tools: [Angular, Laravel, Symfony, Node, Eclipse, Cygwin, Express, JQuery],
   
 }
