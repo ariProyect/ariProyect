@@ -7,7 +7,7 @@
 const ariProyect = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS, PHP, Java],
-  tools: [Angular, Laravel, Symfony, Node, Eclipse, Cygwin, Express.js, JQuery],
+  tools: [Angular, Laravel, Symfony, Node, Eclipse, Cygwin, Express, JQuery],
   
 }
 ```
